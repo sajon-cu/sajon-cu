@@ -12,19 +12,19 @@ Ask me anything about...
 
 Reach out to me at...
 
-<a href="https://twitter.com/burhanrashid52">
-  <img align="left" alt="Burhanuddin's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a><a href="https://www.linkedin.com/in/burhanuddin-rashid-a16959b1">
-  <img align="left" alt="Burhanuddin's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a><a href="https://instagram.com/burhanrashid52/">
-  <img align="left" alt="Burhanuddin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><a href="https://facebook.com/burhanrashid5253">
-  <img align="left" alt="Burhanuddin's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://twitter.com/sajon_cu">
+  <img align="left" alt="Saiful's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a><a href="https://www.linkedin.com/in/sajon-cu/">
+  <img align="left" alt="Saiful's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a><a href="https://www.instagram.com/sajon_cu/">
+  <img align="left" alt="Saiful's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a><a href="https://www.facebook.com/sajon.cu/">
+  <img align="left" alt="Saiful's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
 <br/>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=burhanrashid52&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=burhanrashid52&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/> -->
 
 #### Languages
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="35">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -42,20 +42,17 @@ Reach out to me at...
 <br/>
 <br/>
 
-<a href="https://github.com/burhanrashid52">
+<!-- <a href="https://github.com/burhanrashid52">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burhanrashid52&theme=light&hide_langs_below=1" />
-</a>
+</a> -->
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Dart and Javascript
+- 🔭 I’m currently working on Android, React and React Native
+- 🌱 I’m currently learning Dart and Flutter
 - 👯 I’m looking to collaborate on Mobile Project
 - 🤔 I’m looking for help with my open source projects
 - 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
-- 📫 How to reach me at burhanrashid5253@gmail.com
+- 📫 How to reach me  sajoncu@gmail.com or saifulislamsajon@gmail.com
 - ⚡ Fun fact: I can mentally be present in a meeting for 45-60 minutes.
 
 <br/>
 <br/>
-
-### 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=burhanrashid52)](https://twitter.com/burhanrashid52/)<br><br>
